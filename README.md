@@ -9,7 +9,7 @@ Colaborei com empresas de diferentes perfis, desde startups ágeis e inovadoras 
 Meu objetivo é continuar criando produtos que transformem experiências, resolvam problemas reais, ajude pessoas e impulsionem negócios. 🚀
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@leonardocoitim?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
