@@ -159,6 +159,8 @@ Meu objetivo é continuar criando produtos que transformem experiências, resolv
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
