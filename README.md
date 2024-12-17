@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Leonardo Coitim
+# 👨🏻‍💻 Leonardo Coitim
 
 **`Product Manager`**
 
