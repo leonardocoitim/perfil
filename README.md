@@ -41,7 +41,7 @@ Meu objetivo é continuar criando produtos que transformem experiências, resolv
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias (Aprendendo)
 
 <img 
     align="left" 
